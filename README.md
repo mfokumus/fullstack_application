@@ -23,4 +23,4 @@ Welcome to my GitHub profile! 👋 In this repository, I've demonstrated how to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone [https://github.com/mfokumus/fullstack_application.git]
