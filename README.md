@@ -23,4 +23,20 @@ Welcome to my GitHub profile! 👋 In this repository, I've demonstrated how to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/mfokumus/fullstack_application.git]
+   git clone https://github.com/mfokumus/fullstack_application.git
+------------------------------------------------------------------------
+## 1-)Backend Setup:
+Set up a MySQL database and update the application.properties file in the Spring Boot project with your database configurations.
+Run the Spring Boot application to start the backend server.
+## 2-)Frontend Setup:
+Navigate to the React project directory.
+Install dependencies using:
+**npm install**
+Update the API base URL in the React project to match your backend server.
+Start the React application:
+**npm start**
+
+## 3-)Testing:
+Use Postman or any API testing tool to test the backend API endpoints.
+
+
