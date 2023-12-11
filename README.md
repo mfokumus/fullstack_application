@@ -30,10 +30,15 @@ Set up a MySQL database and update the application.properties file in the Spring
 Run the Spring Boot application to start the backend server.
 ## 2-)Frontend Setup:
 Navigate to the React project directory.
+
 -Install dependencies using:
+
 -**npm install**
+
 Update the API base URL in the React project to match your backend server.
+
 -Start the React application with:
+
 -**npm start**
 
 ## 3-)Testing:
